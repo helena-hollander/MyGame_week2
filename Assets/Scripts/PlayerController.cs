@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-    private CharacterController controller;
+   
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
